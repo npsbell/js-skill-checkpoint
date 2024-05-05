@@ -4,6 +4,6 @@
 
 ## ข้อมูลผู้สอบ
 
-- ชื่อ:
-- นามสกุล:
-- อีเมล:
+- ชื่อ: Napasorn
+- นามสกุล: Thongsopha
+- อีเมล: napasorn.tsp@gmail.com
